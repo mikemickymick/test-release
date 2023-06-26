@@ -1,3 +1,12 @@
+# [1.2.0](https://github.com/mikemickymick/test-release/compare/v1.1.1...v1.2.0) (2023-06-26)
+
+
+### Features
+
+* features as well ([df8d425](https://github.com/mikemickymick/test-release/commit/df8d42545cf584a796b5eb0ba2501fa5065e6fba))
+
+
+
 ## [1.1.1](https://github.com/mikemickymick/test-release/compare/v1.1.0...v1.1.1) (2023-06-26)
 
 
