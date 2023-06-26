@@ -1,4 +1,13 @@
-# 1.1.0 (2023-06-26)
+## [1.1.1](https://github.com/mikemickymick/test-release/compare/v1.1.0...v1.1.1) (2023-06-26)
+
+
+### Bug Fixes
+
+* test fixing ([3e31899](https://github.com/mikemickymick/test-release/commit/3e318995c38ff873cab953c5ce5c9bc6db07f389))
+
+
+
+# [1.1.0](https://github.com/mikemickymick/test-release/compare/4214d5095a0c301a20c3e1e193e86b2f0c674322...v1.1.0) (2023-06-26)
 
 
 ### Bug Fixes
